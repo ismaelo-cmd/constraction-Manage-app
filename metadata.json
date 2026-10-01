@@ -1,0 +1,6 @@
+{
+  "name": "بنيان | نظام إدارة مشاريع المقاولات وداشبورد AppSheet & Looker Studio",
+  "description": "نظام هندسي ومالي متكامل لتتبع مشاريع المقاولات: هيكل بيانات Google Sheets، معادلات وتطبيق AppSheet، ولوحة قيادة Looker Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
